@@ -1,4 +1,4 @@
-
+test
 ## Replication Materials
 
 Replication materials for "Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil" Ernesto Calvo and Tiago Ventura. Forthcoming in the Latin American Politics and Society. 
